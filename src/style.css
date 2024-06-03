@@ -1,0 +1,13 @@
+/* src/styles.css */
+:root {
+    --bg: #ffffff; 
+    --text: #000000; 
+    --pink: #FF5555;
+  }
+  
+  [data-theme="dark"] {
+    --bg: #1a202c; 
+    --text: #ffffff;
+    --pink: #FF87A2;
+  }
+  
